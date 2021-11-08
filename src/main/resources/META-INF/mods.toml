@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+
+[[mods]]
+modId="examplemod"
+version="${file.jarVersion}"
+displayName="Example Mod"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="Love, Cheese and small house plants"
+description='''
+This is created for TurtyProductions Discord Server - November Modding Competition. With at least 1 of the themes: Abandonded, Hunted and Sacrifice.
+'''
